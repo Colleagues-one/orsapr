@@ -1,0 +1,11 @@
+C:\Users\Кирилл\source\repos\ORSAPR\src\ORSAPR\ORSAPR.Model\bin\Debug\ORSAPR.Model.dll
+C:\Users\Кирилл\source\repos\ORSAPR\src\ORSAPR\ORSAPR.Model\bin\Debug\ORSAPR.Model.pdb
+C:\Users\Кирилл\source\repos\ORSAPR\src\ORSAPR\ORSAPR.Model\obj\Debug\ORSAPR.Model.csproj.AssemblyReference.cache
+C:\Users\Кирилл\source\repos\ORSAPR\src\ORSAPR\ORSAPR.Model\obj\Debug\ORSAPR.Model.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\source\repos\ORSAPR\src\ORSAPR\ORSAPR.Model\obj\Debug\ORSAPR.Model.dll
+C:\Users\Кирилл\source\repos\ORSAPR\src\ORSAPR\ORSAPR.Model\obj\Debug\ORSAPR.Model.pdb
+C:\Users\Кирилл\source\repos\ORSAPR\src\ORSAPR\ORSAPR.Model\obj\Debug\Interop.Kompas6API5.dll
+C:\Users\Кирилл\source\repos\ORSAPR\src\ORSAPR\ORSAPR.Model\obj\Debug\Interop.Kompas6Constants.dll
+C:\Users\Кирилл\source\repos\ORSAPR\src\ORSAPR\ORSAPR.Model\obj\Debug\Interop.Kompas6Constants3D.dll
+C:\Users\Кирилл\source\repos\ORSAPR\src\ORSAPR\ORSAPR.Model\obj\Debug\Interop.KompasAPI7.dll
+C:\Users\Кирилл\source\repos\ORSAPR\src\ORSAPR\ORSAPR.Model\obj\Debug\ORSAPR.Model.csproj.ResolveComReference.cache

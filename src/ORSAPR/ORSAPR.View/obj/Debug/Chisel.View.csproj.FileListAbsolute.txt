@@ -1,0 +1,13 @@
+C:\Users\Кирилл\source\repos\ORSAPR\src\ORSAPR\ORSAPR.View\obj\Debug\Chisel.View.csproj.AssemblyReference.cache
+C:\Users\Кирилл\source\repos\ORSAPR\src\ORSAPR\ORSAPR.View\obj\Debug\ORSAPR.View.FormParameters.resources
+C:\Users\Кирилл\source\repos\ORSAPR\src\ORSAPR\ORSAPR.View\obj\Debug\Chisel.View.csproj.GenerateResource.cache
+C:\Users\Кирилл\source\repos\ORSAPR\src\ORSAPR\ORSAPR.View\obj\Debug\Chisel.View.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\source\repos\ORSAPR\src\ORSAPR\ORSAPR.View\obj\Debug\Chisel.View.csproj.CopyComplete
+C:\Users\Кирилл\source\repos\ORSAPR\src\ORSAPR\ORSAPR.View\bin\Debug\Chisel.View.exe.config
+C:\Users\Кирилл\source\repos\ORSAPR\src\ORSAPR\ORSAPR.View\bin\Debug\Chisel.View.exe
+C:\Users\Кирилл\source\repos\ORSAPR\src\ORSAPR\ORSAPR.View\bin\Debug\Chisel.View.pdb
+C:\Users\Кирилл\source\repos\ORSAPR\src\ORSAPR\ORSAPR.View\bin\Debug\Chisel.Model.dll
+C:\Users\Кирилл\source\repos\ORSAPR\src\ORSAPR\ORSAPR.View\bin\Debug\Chisel.Model.pdb
+C:\Users\Кирилл\source\repos\ORSAPR\src\ORSAPR\ORSAPR.View\obj\Debug\Chisel.View.Properties.Resources.resources
+C:\Users\Кирилл\source\repos\ORSAPR\src\ORSAPR\ORSAPR.View\obj\Debug\Chisel.View.exe
+C:\Users\Кирилл\source\repos\ORSAPR\src\ORSAPR\ORSAPR.View\obj\Debug\Chisel.View.pdb

@@ -1,0 +1,5 @@
+C:\Users\Кирилл\source\repos\ORSAPR\src\ORSAPR\ORSAPR.Model\bin\Debug\Chisel.Model.dll
+C:\Users\Кирилл\source\repos\ORSAPR\src\ORSAPR\ORSAPR.Model\bin\Debug\Chisel.Model.pdb
+C:\Users\Кирилл\source\repos\ORSAPR\src\ORSAPR\ORSAPR.Model\obj\Debug\Chisel.Model.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\source\repos\ORSAPR\src\ORSAPR\ORSAPR.Model\obj\Debug\Chisel.Model.dll
+C:\Users\Кирилл\source\repos\ORSAPR\src\ORSAPR\ORSAPR.Model\obj\Debug\Chisel.Model.pdb
